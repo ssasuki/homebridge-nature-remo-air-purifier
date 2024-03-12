@@ -20,7 +20,7 @@
     "nature",
     "remo",
     "air",
-    "purifier",
+    "purifier"
   ],
   "engines": {
     "node": ">=10.17.0",

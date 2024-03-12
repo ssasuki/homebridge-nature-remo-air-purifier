@@ -1,0 +1,30 @@
+{
+  "name": "homebridge-nature-remo-air-purifier",
+  "displayName": "Homebridge Nature Remo Air Purifier",
+  "version": "1.0.0",
+  "description": "Homebridge Plugin to send power on and off to an air purifier using Nature Remo",
+  "author": "Sasuki Sho",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssasuki/homebridge-nature-remo-air-purifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ssasuki/homebridge-nature-remo-air-purifier/issues"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "apple",
+    "homekit",
+    "nature",
+    "remo",
+    "air",
+    "purifier",
+  ],
+  "engines": {
+    "node": ">=10.17.0",
+    "homebridge": ">=0.4.8"
+  },
+  "dependencies": {}
+}
